@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Enxrm
+- 🦏 Founder of ridiculousrhinos NFT
 - 👀 I’m interested in Blockchain and web development
 - 🌱 I’m currently learning javascript, react
 - 📫 How to reach me eenxrm@gmail.com or enxrm@ridiculousrhinos.club/
